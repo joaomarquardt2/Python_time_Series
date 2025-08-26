@@ -2,5 +2,5 @@ O header file declara informações que podem ser usadas em diferentes partes do
 A docstring descreve o funcionamento de partes específicas do código no Python.
 def cadeira():
     """Exibe uma mensagem cadeira"""
-    print("casdeira")
+    print("cadeira")
 
